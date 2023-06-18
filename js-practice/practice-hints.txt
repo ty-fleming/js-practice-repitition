@@ -1,0 +1,77 @@
+
+1. Print numbers from 1 to 5 using a for loop:
+   Hint: Use a `for` loop with an appropriate loop variable and the `console.log()` function inside the loop.
+
+2. Check if a number is positive using an if statement:
+   Hint: Use an `if` statement to check if the number is greater than 0.
+
+3. Print the names in an array using a for loop:
+   Hint: Use a `for` loop to iterate over the array and the `console.log()` function to print each name.
+
+4. Check if a person is eligible to vote using an if statement:
+   Hint: Use an `if` statement to check if the person's age is above a certain threshold (e.g., 18).
+
+5. Print to the console a message like ('{word} has more than 5 characters') if a word contains more than 5 characters:
+   Hint: Use the `length` property of a string and an `if` statement to check if the word's length is greater than 5.
+
+6. Print the names of fruits from an array, but only if they start with the letter 'A':
+   Hint: Use a `for` loop to iterate over the array and an `if` statement to check if the first letter of each fruit is 'A'.
+
+7. Print the names of superheroes from an array, but only if their name starts with 'S':
+   Hint: Use a `for` loop to iterate over the array and an `if` statement to check if the first letter of each superhero's name is 'S'.
+
+8. Print the jokes from an array, but only if the joke contains the word 'laughter':
+   Hint: Use a `for` loop to iterate over the array and an `if` statement with the `includes()` method to check if each joke contains the word 'laughter'.
+
+9. Print the names of countries from an array, but only if the country has more than 8 letters:
+   Hint: Use a `for` loop to iterate over the array and an `if` statement with the `length` property to check if each country's name has more than 8 letters.
+
+10. Print the names of funny animals from an array, but only if the animal name starts with 'B':
+    Hint: Use a `for` loop to iterate over the array and an `if` statement to check if the first letter of each animal's name is 'B'.
+
+11. Print the names of vegetables from an array, but only if they contain the letter 'e':
+    Hint: Use a `for` loop to iterate over the array and an `if` statement with the `includes()` method to check if each vegetable's name contains the letter 'e'.
+
+12. Print a welcome message to a user based on their username:
+    Hint: Use string concatenation to create a customized welcome message using the username variable.
+
+13. Check if a room has windows and the windows are open using an if statement:
+    Hint: Use an `if` statement with appropriate conditions to check if the room has windows and if they are open.
+
+14. Check if a room needs more lighting and the lighting level is below 5 using an if statement:
+    Hint: Use an `if` statement with appropriate conditions to check if the room needs more lighting based on the lighting level.
+
+15. Check if a room has enough storage space and the available storage is above 75% using an if statement:
+    Hint: Use an `if` statement with appropriate conditions to check if the room has enough storage space based on the storage capacity and storage usage.
+
+16. Check if the room needs a fresh coat
+
+ of paint:
+    Hint: Use an `if` statement with appropriate conditions to check if the room needs a fresh coat of paint based on the given rules.
+
+17. Determine if a room needs a makeover:
+    Hint: Use an `if` statement with appropriate conditions to check if the room needs a makeover based on the given rules.
+
+18. Determine if a car is suitable for a road trip:
+    Hint: Use an `if` statement with appropriate conditions to check if the car is suitable for a road trip based on the given rules.
+
+19. Determine if a dish is ready to be served:
+    Hint: Use an `if` statement with appropriate conditions to check if the dish is ready to be served based on the given rules.
+
+20. Print the names of fabric patterns from an array, but only if they are Floral patterns or Geometric patterns:
+    Hint: Use a `for` loop to iterate over the array and an `if` statement to check if each pattern is either floral or geometric.
+
+21. Print the names of decorative items from an array, but only if they are vases or sculptures:
+    Hint: Use a `for` loop to iterate over the array and an `if` statement to check if each item is either a vase or a sculpture.
+
+22. Print the names of famous landmarks from an array, but only if they have more than one word in their name:
+    Hint: Use a `for` loop to iterate over the array and an `if` statement with the `split()` method to check if each landmark has more than one word.
+
+23. Print the length of each word in a sentence:
+    Hint: Use the `split()` method to split the sentence into an array of words, and then use a `for` loop to iterate over the array and print the length of each word.
+
+24. Print the catchphrases of famous TV characters from an array, but only if the catchphrase has exactly 3 words:
+    Hint: Use a `for` loop to iterate over the array and an `if` statement with the `split()` method to check if each catchphrase has exactly three words.
+
+25. Print even numbers from 1 to 10 using a for loop and if statement:
+    Hint: Use a `for` loop to iterate from 1 to 10 and an `if` statement with the modulus operator `%` to check if each number is even.
