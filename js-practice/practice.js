@@ -2,10 +2,10 @@ console.log('****** Simple Loop and If Statement Practice *******');
 
 // 1. Print numbers from 1 to 5 using a for loop
 // Hint: You need to use a for loop and the console.log() function inside the loop.
-console.log('--- 1. Check positive number ---');
+console.log('--- 1. Print numbers from 1 to 5 ---');
 
 // 2. Check if a number is positive using an if statement
-console.log('--- 2. Check positive number ---');
+console.log('--- 2. Check if a number is positive ---');
 let number = 7;
 
 
@@ -32,9 +32,6 @@ let fruits = ['Apple', 'Banana', 'Orange', 'Apricot', 'Grape'];
 console.log('--- 7. Print superheroes starting with "S" ---');
 let superheroes = ['Superman', 'Spider-Man', 'Batman', 'Supergirl', 'Iron Man'];
 
-
-
-
 // 8. Print the jokes from an array, but only if the joke contains the word 'laughter'
 console.log('--- 8. Print jokes containing "laughter" ---');
 let jokes = [
@@ -45,37 +42,30 @@ let jokes = [
   'Why did the comedian bring a ladder to the comedy club? Because he wanted to reach new heights of laughter!'
 ];
 
-
 // 9. Print the names of countries from an array, but only if the country has more than 8 letters
 console.log('--- 9. Print countries with more than 8 letters ---');
 let countries = ['Australia', 'Japan', 'Netherlands', 'Brazil', 'Argentina'];
-
 
 // 10. Print the names of funny animals from an array, but only if the animal name starts with 'B'
 console.log('--- 10. Print funny animals starting with "B" ---');
 let animals = ['Badger', 'Monkey', 'Baboon', 'Elephant', 'Bear'];
 
-
 // 11. Print the names of vegetables from an array, but only if they contain the letter 'e'
 console.log('--- 11. Print vegetables containing "e" ---');
 let vegetables = ['Carrot', 'Broccoli', 'Spinach', 'Tomato', 'Pepper'];
-
 
 // 13. Print a message for each person whose name contains the letter 'o'
 console.log('--- 13. Check names for "o" ---');
 let people = ['John', 'Samantha', 'Robert', 'Olivia', 'Joseph'];
 
-
 // 12. Print a welcome message to a user based on their username
 console.log('--- 12. Welcome message ---');
 let username = 'sillykitty123';
-
 
 // 14. Check if a room has windows and the windows are open using an if statement
 console.log('--- 14. Check if the room has open windows ---');
 let hasWindows = true;
 let areWindowsOpen = true;
-
 
 // 15. Check if a room needs more lighting and the lighting level is below 5 using an if statement
 console.log('--- 15. Check if the room needs more lighting ---');
@@ -108,7 +98,6 @@ let furnitureCount = 2;
 let numWindows = 0;
 let numDoors = 3;
 
-
 // 2. Determine if a car is suitable for a road trip
 console.log('--- 2. Determine if a car is suitable for a road trip ---');
 /*
@@ -127,7 +116,6 @@ let tireCondition = 'Good';
 let engineTemperature = 'Normal';
 let numPassengers = 3;
 let trunkSpace = true;
-
 
 // 3. Determine if a dish is ready to be served
 console.log('--- 3. Determine if a dish is ready to be served ---');
@@ -158,42 +146,29 @@ A room needs a fresh coat of paint if it satisfies the following conditions:
 - Number of coats is less than 3
 */
 
-
 let paintCondition = 'Worn out';
 let roomSize = 'Large';
 let previousColor = 'Beige';
 let numberOfCoats = 2;
 
-
-
-
-
 // 16. Print the names of fabric patterns from an array, but only if they are Floral patterns or Geometric patterns
 console.log('--- 16. Print floral or geometric fabric patterns ---');
 let fabricPatterns = ['Stripes', 'Floral', 'Polka Dots', 'Chevron', 'Plaid', 'Geometric'];
-
-
-
 
 // 18. Print the names of decorative items from an array, but only if they are vases or sculptures
 console.log('--- 18. Print vase or sculpture names ---');
 let decorativeItems = ['Candle Holder', 'Vase', 'Picture Frame', 'Sculpture', 'Plant Pot'];
 // Hint: Use a for loop to iterate through the array, and an if statement to check if each decorative item is a vase or sculpture.
 
-
-
-
 // ---------------STRETCH GOALS-------------------
 // Print the names of famous landmarks from an array, but only if they have more than one word in their name
 console.log('--- STRETCH Print landmarks with more than one word ---');
 let landmarks = ['Eiffel Tower', 'Taj Mahal', 'Pyramids of Giza', 'Colosseum', 'Great Wall of China'];
 
-
 // Print the length of each word in a sentence
 // Example console.log = 'Length of frog: 4'
 console.log('--- STRETCH Print word lengths ---');
 let sentence = 'I love coding with JavaScript';
-
 
 // Print the catchphrases of famous TV characters from an array, but only if the catchphrase has exactly 3 words
 console.log('--- STRETCH Print TV catchphrases with 3 words ---');
@@ -205,8 +180,8 @@ let catchphrases = [
   'How you doin?'
 ];
 
-//  Print even numbers from 1 to 10 using a for loop and if statement
-// Quick Hint - How to check if number is a EVEN number? -> num % 2 === 0 
+// Print even numbers from 1 to 10 using a for loop and if statement
+// Quick Hint - How to check if number is an EVEN number? -> num % 2 === 0 
 // --- More Help ----
 // In JavaScript, the "%" symbol is called the "modulus operator." 
 // It's a special symbol that helps us figure out the remainder when we divide two numbers.
