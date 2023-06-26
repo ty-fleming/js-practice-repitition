@@ -11,7 +11,7 @@ let number = 7;
 
 // 3. Print the names in an array using a for loop
 console.log('--- 3. Print names ---');
-let names = ['Alice', 'Bob', 'Charlie', 'Dave'];
+let favNames = ['Alice', 'Bob', 'Charlie', 'Dave'];
 
 
 // 4. Check if a person is eligible to vote using an if statement
